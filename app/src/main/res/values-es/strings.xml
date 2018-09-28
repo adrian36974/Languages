@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lenguajes</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo Electrónico</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Iniciar sesión o registrarse</string>
+    <string name="action_sign_in_short">Iniciar Sesión</string>
+    <string name="error_invalid_email">Este correo electrónico no es válido</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Permisos para acceder a los contactos son necesarios."</string>
+    <string name="tale">Érase una vez un perrito de grafito con las patas de goma. El perrito se rascó y el cuento se acabó.</string>
+    <string name="tittle">Importante</string>
+    <string name="ok">Aceptar</string>
+</resources>
